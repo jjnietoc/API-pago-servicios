@@ -139,6 +139,9 @@ REST_FRAMEWORK = {
         'pagos': '1000/day',
 
     }
+
+    #versioning
+    #pagination
 }
 
 CACHES = {
